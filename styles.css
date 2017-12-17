@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.map-container {
+  height: 80%;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+#map {
+  height: 100%;
+}
+
+h1 {
+  font-weight: 200;
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin-top: 0;
+}
+ 
+
+ /*# sourceMappingURL= styles.css.map */
